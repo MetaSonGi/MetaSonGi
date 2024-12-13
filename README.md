@@ -1,11 +1,4 @@
 # 🐧 Welcome to My GitHub!
-<div align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="https://via.placeholder.com/400x100?text=Welcome+to+My+GitHub!" />
-    <source media="(max-width: 1200px)" srcset="https://via.placeholder.com/600x150?text=Welcome+to+My+GitHub!" />
-    <img src="https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub!" alt="Welcome to My GitHub" style="width: 100%; max-width: 800px; border-radius: 10px;" />
-  </picture>
-</div>
 
 **Name : son hyogi**  
 🚀 **C# Developer | Unity Game Developer | Tech Enthusiast**  
@@ -18,6 +11,128 @@
 🌱 Currently exploring **VR/AR technologies** and **game optimization techniques**.  
 
 
+---
+# 🏆 Career & Projects
+
+## 🕒 Timeline
+
+### [2024]
+- **Digital Twin Platform Development (Robot Industry Promotion Agency)**  
+  *Apr 2024 ~ Jul 2024*  
+  - Developed mixed reality (MR) solutions using **HoloLens 2**.  
+  - Visualized process and equipment data through **Digital Twin technology**.  
+
+- **Industry-Academy Collaboration Teacher**  
+  *Daegu Technical High School Future Career Education Center (Apr 2024 ~ Dec 2024)*  
+  - Taught 3D modeling and animation using **Unity**.  
+  - Conducted training on Digital Twin and Smart Factory maintenance practices.  
+
+- **Smart Factory Digital Twin Platform Development (Daegu Science High School)**  
+  *Jan 2024 ~ Apr 2024*  
+  - Visualized equipment and production data for a **Digital Twin system**.  
+  - Integrated CNC equipment data into the platform.  
+
+- **Android-Based Smart View App Control System**  
+  *Jul 2024*  
+  - Implemented **UI designs** and developed activities/fragments for Android applications.  
+
+---
+
+### [2023]
+- **MR Mixed Reality Digital Twin Development**  
+  *Oct 2023 ~ Nov 2023*  
+  - Implemented a Digital Twin system using **HoloLens 2**.  
+  - Enhanced production system with order and manufacturing integration.  
+
+- **Production Automation Training Module**  
+  *Mar 2023 ~ Jun 2023*  
+  - Developed simulation and Digital Twin systems using **Unreal Engine**.  
+  - Analyzed functional differences between **Unity** and **Unreal Engine**.  
+
+- **Smart Factory and Digital Twin Training**  
+  *Polytechnic University (Jul 2023)*  
+  - Conducted practical training integrating Unity and PLC data.  
+  - Lectured on AI and Digital Twin implementation in real-world cases.  
+
+---
+
+### [2022]
+- **DLL Development for Smart Factory Data Integration**  
+  *Jul 2022 ~ Aug 2022*  
+  - Developed libraries for Unity engine utilizing factory data through **DLLs**.  
+
+- **Industrial Digital Transformation Forum – Metaverse Platform Development**  
+  *Jul 2022*  
+  - Built VR-based production management and educational systems.  
+
+- **Industrial Automation Exhibition (Smart Factory Automation Expo)**  
+  *Apr 2022*  
+  - Created industrial safety VR content and multi-joint robot monitoring systems.  
+
+- **Adjunct Teacher for Smart Factory**  
+  *Asan Smart Factory Meister High School (Mar 2022 ~ Jun 2022)*  
+  - Taught XR technology and Metaverse concepts.  
+  - Conducted hands-on training on Smart Factory applications.  
+
+---
+
+### [2021]
+- **VR & Digital Twin Content Development for Smart Factory**  
+  *Sep 2021 ~ Dec 2021*  
+  - Built VR systems for production management and robot control.  
+
+- **Mixed Reality Development for Smart Factory**  
+  *Keimyung University (Jul 2021 ~ Sep 2021)*  
+  - Implemented MR solutions using **HoloLens 2** for process visualization.  
+
+- **CPS Textbook and Training**  
+  *Polytechnic University (May 2021 ~ Jul 2021)*  
+  - Authored a textbook and led training sessions on CPS-based equipment control.  
+
+---
+
+### [2020]
+- **Robot Axis Data Communication System**  
+  *Sep 2020 ~ Dec 2020*  
+  - Designed and tested multi-joint robot axis communication programs.  
+
+- **Digital Twin Simulation for CPS-based USB Manufacturing**  
+  *Polytechnic University, Cheongju Campus (Jul 2020 ~ Sep 2020)*  
+  - Developed a Digital Twin simulation for USB manufacturing processes.  
+
+- **Job World Smart Factory Development**  
+  *Mar 2020 ~ May 2020*  
+  - Linked Unity with a database for real-time production info visualization.  
+
+---
+
+### [2019]
+- **Smart Factory Advanced Project**  
+  *Samsung Electronics Co-Prosperity Academy (Sep 2019 ~ Dec 2019)*  
+  - Implemented AR-based process visualization using image tracking.  
+
+- **PLC-Unity Communication System**  
+  *Small and Medium Business Training Institute (Sep 2019 ~ Dec 2019)*  
+  - Developed collaborative process systems with AR and PLC-Unity integration.  
+
+---
+
+### [2018]
+- **Socket and Serial Communication Application**  
+  *Oct 2018 ~ Dec 2018*  
+  - Built communication programs for inter-device data transfer using **C#**.  
+
+- **Augmented Reality (AR) Content Development**  
+  *Dec 2018 ~ Jun 2019*  
+  - Created AR applications using **Unity** and **Vuforia**, enhancing UI/UX.  
+
+---
+
+## 🌟 Notable Achievements
+- Delivered **Digital Twin platforms** across multiple domains (Smart Factory, Industrial Training).  
+- Integrated **HoloLens 2** and **VR/AR technologies** for cutting-edge educational content.  
+- Developed **DLL libraries** for seamless **Unity and Smart Factory integration**.  
+- Trained future professionals in **XR technologies**, **Digital Twins**, and **Smart Factories**.  
 ---
 ## 📊 GitHub Stats
 
