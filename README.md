@@ -1,9 +1,14 @@
 # 🐧 Welcome to My GitHub!
+<div align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://via.placeholder.com/400x100?text=Welcome+to+My+GitHub!" />
+    <source media="(max-width: 1200px)" srcset="https://via.placeholder.com/600x150?text=Welcome+to+My+GitHub!" />
+    <img src="https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub!" alt="Welcome to My GitHub" style="width: 100%; max-width: 800px; border-radius: 10px;" />
+  </picture>
+</div>
 
-**son hyogi**  
+**Name : son hyogi**  
 🚀 **C# Developer | Unity Game Developer | Tech Enthusiast**  
-
-![Profile Banner](https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub!)
 
 ---
 
@@ -12,12 +17,22 @@
 🎮 My mission is to create immersive gaming experiences and develop tools that make life easier for developers.  
 🌱 Currently exploring **VR/AR technologies** and **game optimization techniques**.  
 
-### Fun Facts:  
-- 🐧 I love penguins (they're my spirit animal 🐧).  
-- 🎸 In my free time, I play the guitar and compose music.  
-- 🌍 I’m always curious to learn about **new tech trends**!  
 
 ---
+## 📊 GitHub Stats
+
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox)
+
+---
+
 
 ## 🚀 Skills & Tools  
 - **Languages:**  
@@ -47,10 +62,8 @@
 
 ## 📝 Contact  
 📬 **Email:** [5264939@naver.com](mailto:5264939@naver.com)  
-🌐 **Tistory:** [[yourportfolio.com](https://developer-archive.tistory.com)]
-💼 **LinkedIn:** [linkedin.com/in/metasongi](https://linkedin.com/in/metasongi)  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
-
+🌐 **Tistory:** [[프로그래밍 개발](https://developer-archive.tistory.com)]
+💼 **LinkedIn:** [linkedin.com/in/metasongi](https://linkedin.com/in/metasongi) 
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.”*  
