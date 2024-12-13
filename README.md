@@ -10,7 +10,6 @@
 🎮 My mission is to create immersive gaming experiences and develop tools that make life easier for developers.  
 🌱 Currently exploring **VR/AR technologies** and **game optimization techniques**.  
 
-
 ---
 # 🏆 Career & Projects
 
@@ -176,12 +175,11 @@
 ---
 
 ## 📝 Contact  
-📬 **Email:** [5264939@naver.com](mailto:5264939@naver.com)  
+📬 **Email:** [MYemail](mailto:5264939@naver.com)  
 🌐 **Tistory:** [[프로그래밍 개발](https://developer-archive.tistory.com)]
-💼 **LinkedIn:** [linkedin.com/in/metasongi](https://linkedin.com/in/metasongi) 
+💼 **LinkedIn:** [linkedin](https://linkedin.com/in/metasongi) 
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.”*  
 > — *Cory House*  
 
-![Footer](https://via.placeholder.com/800x100?text=Thanks+for+visiting!+🌟)
