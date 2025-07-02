@@ -135,15 +135,15 @@
 ---
 ## 📊 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetaSonGi&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MetaSonGi&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox)
+![Trophies](https://github-profile-trophy.vercel.app/?username=MetaSonGi&theme=gruvbox)
 
 ---
 
