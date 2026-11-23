@@ -3,7 +3,8 @@
 **스마트팩토리 · 디지털트윈 · 제조 AI 개발자**
 **Smart Factory · Digital Twin · Manufacturing AI Developer**
 
-🌐 Portfolio Hub: https://metasongi.github.io/
+🌐 **포트폴리오 허브:** https://metasongi.github.io/ — 바로 실행되는 웹 프로젝트 64개
+🌌 **테마 포트폴리오:** https://metasongi.github.io/metasongi-motion-portfolio/ — 같은 내용을 10가지 디자인으로
 
 ---
 
@@ -11,11 +12,10 @@
 
 스마트팩토리 AR/VR/MR 서비스 개발·운영 7년차 개발자입니다.
 로봇 디지털트윈 현장 적용 연구로 논문을 썼고(산업기술연구논문지, 2024),
-대학·고등학교에서 제조·유니티 강의를 하며 지금은 **제조 AI**로 방향을 틀고 있습니다.
+대학·고등학교에서 제조·유니티 강의를 하며 지금은 **제조 AI**로 방향을 넓히고 있습니다.
 
-GitHub Pages에 웹 프로젝트 24개를 직접 배포·운영 중이며,
-강의 플랫폼(메타송이 클래스)부터 디지털트윈 시뮬레이터, 제조 데이터 분석 도구까지
-"바로 실행해볼 수 있는" 결과물을 만드는 걸 좋아합니다.
+설비 데이터를 읽어(Modbus·OPC UA·KUKA) Unity·웹 3D 화면으로 보여주는 일을 주로 합니다.
+결과물은 가능한 한 **설치 없이 브라우저에서 바로 실행**되게 만들고, 빌드 과정·테스트·검증 범위를 README에 함께 적습니다.
 
 ## 🇺🇸 About Me
 
@@ -23,35 +23,58 @@ I'm a developer with 7 years of experience in smart factory AR/VR/MR services.
 I published a paper on applying digital twins to collaborative robots in the field
 (Journal of Industrial Technology Research, 2024),
 have taught manufacturing and Unity at universities and technical high schools,
-and I'm now moving toward **Manufacturing AI**.
+and I'm now expanding into **Manufacturing AI**.
 
-I build and run 24 web projects on GitHub Pages —
-from a lecture platform (MetaSonGi Class) to digital twin simulators
-and manufacturing data analysis tools.
-I like making things you can try right away in the browser.
+I connect factory data (Modbus, OPC UA, KUKA) to Unity and web 3D views,
+and ship most work as static web apps you can open in the browser without installing anything.
+
+---
+
+## 🌌 테마 포트폴리오 — 10가지 디자인 | Ten Themes
+
+색만 바꾼 테마가 아니라 화면 구조·3D 장면·조작 방식이 모두 다른 10개의 버전입니다. 링크를 누르면 해당 테마로 바로 열립니다.
+
+| # | 테마 | 특징 |
+|---|---|---|
+| 01 | [Beyond Gravity](https://metasongi.github.io/metasongi-motion-portfolio/?world=space) | 우주 비행 3D |
+| 02 | [A Little Journey](https://metasongi.github.io/metasongi-motion-portfolio/?world=journey) | 캐릭터 여행 |
+| 03 | [Developer OS](https://metasongi.github.io/metasongi-motion-portfolio/?world=workspace) | 데스크톱·터미널 |
+| 04 | [Object Room](https://metasongi.github.io/metasongi-motion-portfolio/?world=gallery) | 액자 전시실 |
+| 05 | [The Build Journal](https://metasongi.github.io/metasongi-motion-portfolio/?world=editorial) | 개발 매거진 |
+| 06 | [Idea Atlas](https://metasongi.github.io/metasongi-motion-portfolio/?world=atlas) | 기술 관계 지도 |
+| 07 | [Assembly Study](https://metasongi.github.io/metasongi-motion-portfolio/?world=assembly) | 분해·조립 스크롤 |
+| 08 | [Play / Build](https://metasongi.github.io/metasongi-motion-portfolio/?world=bento) | 인터랙티브 실험실 |
+| 09 | [The Developer Cut](https://metasongi.github.io/metasongi-motion-portfolio/?world=noir) | 영화형 타임라인 |
+| 10 | [Digital Garden](https://metasongi.github.io/metasongi-motion-portfolio/?world=garden) | 자라는 정원 |
 
 ---
 
 ## 🛠️ 기술 스택 | Tech Stack
 
-**Main:** JavaScript · Python · Three.js · Firebase · C# · Unity
-**Web:** HTML/CSS · Vercel · GitHub Pages · Capacitor (Android)
-**Data/AI:** pandas · MQTT/OPC UA · Digital Twin · MCP
+| 분야 | 사용 기술 |
+|---|---|
+| 3D · XR | C#, Unity 6 (AR Foundation, WebGL, WebXR), Three.js, HoloLens 2, Meta Quest |
+| 웹 | JavaScript (빌드 없는 ES 모듈), HTML/CSS, GitHub Pages, Vercel, Firebase, Supabase, Capacitor (Android) |
+| 설비 데이터 | Modbus, OPC UA, MQTT, KukavarProxy, Arduino Opta |
+| AI · 데이터 | Python, pandas, MCP, PyTorch, Ollama·RAG, Whisper, Vosk, Sentis(YOLO) |
+| 백엔드 | Python 표준 라이브러리 HTTP, NestJS, .NET |
 
 ---
 
 ## 🌟 대표 프로젝트 | Featured Projects
 
-| 프로젝트 | 설명 | 링크 |
-|---|---|---|
-| 🎓 메타송이 클래스 | 강사/학생 역할 분리형 실시간 강의 플랫폼 (화이트보드·과제·Google 로그인) | [Live](https://metasongi.github.io/metasongi-class/) |
-| 🏭 스마트공장 트레이너 | 3D 가상 장비 실습 + 평가/수료 판정 시뮬레이터 | [Live](https://metasongi.github.io/smart-factory-trainer/) |
-| 🤖 디지털트윈 AI 랩 | 디지털트윈 트렌드 분석 + AI 서비스 체험 웹앱 | [Live](https://metasongi.github.io/digital-twin-ai-lab/) |
-| 🏆 HRD 데이터랩 | 한국산업인력공단 MCP 실시간 데이터 탐색 (국가자격·NCS) | [Live](https://metasongi.github.io/hrd-data-lab/) |
-| 📷 Image to 3D Viewer | 이미지를 3D 입체 뷰로 변환 (Three.js 뎁스 매핑) | [Live](https://metasongi.github.io/image-to-3d-viewer/) |
-| 🎮 웹 게임 9종 | 퍼즐·시뮬레이션 미니게임 모음 | [Hub](https://metasongi.github.io/) |
+| 프로젝트 | 무엇을 하나 | 기술 | 링크 |
+|---|---|---|---|
+| 🎓 메타송이 클래스 | 강사/학생 역할 분리 실시간 강의 플랫폼 (화이트보드·과제) | Firebase, Firestore 보안 규칙, tldraw | [Live](https://metasongi.github.io/metasongi-class/) · [Code](https://github.com/MetaSonGi/metasongi-class) |
+| 🏭 스마트공장 트레이너 | 3D 가상 장비 실습 + 평가·수료 판정 | Three.js | [Live](https://metasongi.github.io/smart-factory-trainer/) · [Code](https://github.com/MetaSonGi/smart-factory-trainer) |
+| 🔌 가상 논리회로 실험실 | 논리·공압·유압 회로 실험 11개 + 3D 브레드보드 랩 | Unity 6 WebGL, Three.js | [Live](https://metasongi.github.io/virtual-logic-labs/) · [Code](https://github.com/MetaSonGi/virtual-logic-labs) |
+| 🏭 디지털트윈 미니 시뮬레이터 | 컨베이어 + 로봇팔 셀 트윈, 디지털트윈 × AI 랩 | Three.js | [Live](https://metasongi.github.io/digital-twin-mini-sim/) · [Code](https://github.com/MetaSonGi/digital-twin-mini-sim) |
+| 📡 OpenSignal | 제조 데이터 수집 + MES/POP 학습, LOT 기반 AI 기준선 | Python, JS | [Live](https://metasongi.github.io/open-signal-monitor/) · [Code](https://github.com/MetaSonGi/open-signal-monitor) |
+| 🧪 MuJoCo 물리 실험실 | 물리 실험 14개를 해석해와 실시간 비교 | MuJoCo WASM | [Live](https://metasongi.github.io/mujoco-physics-lab/) · [Code](https://github.com/MetaSonGi/mujoco-physics-lab) |
+| 🤖 Robot Lab | 웹 로봇 제어·통신 실습 | MuJoCo, Three.js | [Live](https://metasongi.github.io/robot-lab/) · [Code](https://github.com/MetaSonGi/robot-lab) |
+| 🏆 HRD 데이터랩 | 한국산업인력공단 MCP 실시간 데이터 탐색 | MCP, Vercel 프록시 | [Live](https://metasongi.github.io/hrd-data-lab/) · [Code](https://github.com/MetaSonGi/hrd-data-lab) |
 
-전체 목록은 포트폴리오 허브에서: **https://metasongi.github.io/**
+전체 64개 프로젝트는 포트폴리오 허브에서 태그별로 볼 수 있습니다: **https://metasongi.github.io/**
 
 ---
 
